@@ -1,0 +1,4 @@
+moper
+=====
+
+Manager Operator
